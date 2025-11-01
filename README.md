@@ -1,19 +1,6 @@
 
 # Flipkart Clone MERN stack 
 
-Kritagya's Flipkart Clone is done with top-notch features for the entrepreneur startups like Flipkart it has RazorPay Integration and get money from anywhere. This Flipkart clone with the best features in mobile, web, and iOS platforms, Completely responsive design using Material UI.
-- 🧪 **Kindly Please Support Me**
-  - I can provide brand-free products and full technical support for 1 year along with 1-year free update support and moreover
-- 👁 **Well typed**
-  - Clean JavaScript code with good folder structure.
-- **Requirements to fork this repo**
-   - Strong knowledge of JavaScript
-   - React js, redux , redux-thunk , context
-   - Knowledge of Express js & MVC architecture
-   - Basic knowledge in MongoDB & Mongoose
-   
-
-
 ![Screenshot from 2021-11-01 18-05-31](https://user-images.githubusercontent.com/91063960/139678469-c631005a-9c20-4321-8022-24f4573427b7.png)
 ![Screenshot from 2021-11-01 18-05-52](https://user-images.githubusercontent.com/91063960/139678483-ca95e74e-44a5-422c-9cac-4bfe463215ef.png)
 ![Screenshot from 2021-11-01 18-06-08](https://user-images.githubusercontent.com/91063960/139678489-03130e57-7e0b-4bb0-96f6-f4ec85b8efbe.png)
